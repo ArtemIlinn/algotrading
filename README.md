@@ -9,3 +9,5 @@ https://drive.google.com/file/d/1DGiSSispVyGfy0Cm_d4sWhmYm79Rw2k1/view?usp=shari
 
 ML methos: LSTM, prophet...
 Key methrics for model - MAPE, R2, spearman correlation.
+
+Creation of datasets and process of data mining one can find in "data_construction.ipynb".
