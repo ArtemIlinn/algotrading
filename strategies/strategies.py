@@ -1,3 +1,4 @@
+def run_cppi(risky_r, safe_r=None, m=3, start=1000, floor=0.8, riskfree_rate=0.035, drawdown=None):
 
     dates = risky_r.index
     n_steps = len(dates)
