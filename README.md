@@ -1,7 +1,7 @@
-Project of predicting stock prices and movements using supervised learning, and creating mft stratedies.
+:bow_and_arrow:Project of creating mft strategies and predicting stock prices and its movements using supervised learning. 
 
 
-Origiana Data source:
+Origianal Data source:
 https://drive.google.com/drive/folders/1MH2RuQByiyHKXNamLICoPRcxl1rYhuL5
 
 AAPLFeatures.csv here:
@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1DGiSSispVyGfy0Cm_d4sWhmYm79Rw2k1/view?usp=shari
 ML methos: LSTM, prophet...
 Key methrics for model - MAPE, R2, spearman correlation.
 
-Creation of datasets and process of data mining one can find in "data_construction.ipynb".
+Creation of datasets and process of data mining one can be found in "data_construction.ipynb".
 
 Strategies presented in [strategies](https://github.com/ArtemIlinn/algotrading/tree/main/strategies) directory
 Such as CPPI one:
