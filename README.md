@@ -12,7 +12,7 @@ Key methrics for model - MAPE, R2, spearman correlation.
 
 Creation of datasets and process of data mining one can find in "data_construction.ipynb".
 
-Strategies presented in [strategies](doc:https://github.com/ArtemIlinn/algotrading/tree/main/strategies)
+Strategies presented in [strategies](doc:https://github.com/ArtemIlinn/algotrading/tree/main/strategies#anchor-links) directory
 
 Take a look at CPPI one performance:
 
