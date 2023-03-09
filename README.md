@@ -1,4 +1,4 @@
-# :bow_and_arrow: Project of creating mft strategies and predicting stock prices and its movements using supervised learning. 
+# :bow_and_arrow: Project of creating mft strategies, and predicting stock prices using supervised learning. 
 
 
 Origianal Data source:
